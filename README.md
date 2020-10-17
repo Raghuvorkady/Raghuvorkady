@@ -47,7 +47,7 @@
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Raghuvorkady.visitor-badge.issue.1)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Raghuvorkady.visitor-badges.issue.1)
 
 ---
 
