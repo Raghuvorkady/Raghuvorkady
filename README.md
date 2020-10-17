@@ -1,3 +1,4 @@
+![Header](/images/header-image.png "Header")
 ### Hi there 👋
 
 <!--
