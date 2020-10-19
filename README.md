@@ -6,6 +6,7 @@
 
 - 🔭 I’m currently working on Flutter project
 - 🌱 I’m currently learning Deep Learning, Django
+- ⛳ Future goal : Contribute to Open Source Development and Community
 
 <!-- 
 - 👯 I’m looking to collaborate on ...
