@@ -51,9 +51,3 @@
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Raghuvorkady.visitor-badges.issue.1)
 
 ---
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Raghuvorkady&repo=wd4e-capstone-project)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Raghuvorkady&repo=Dbms-Mini-Project)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Raghuvorkady&repo=DBMS-LAB-Programs)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Raghuvorkady&repo=CNS-LAB-Programs)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Raghuvorkady&repo=adda)](https://github.com/anuraghazra/github-readme-stats)
