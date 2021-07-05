@@ -4,8 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on Flutter project
-- 🌱 I’m currently learning Deep Learning, Django
+- 🌱 I’m currently working a Android project
 - ⛳ Future goal : Contribute to Open Source Development and Community
 
 <!-- 
@@ -43,7 +42,7 @@
 
 <p align="center">
   <a href="mailto:raghavendrakm300@gmail.com"><img src="https://img.shields.io/badge/-Mail-white?style=flat&logo=gmail&labelColor=white"></a>
-  <a href="https://www.linkedin.com/in/raghavendra-k-m-2214b0194"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedIn&labelColor=blue"></a>
+  <a href="https://www.linkedin.com/in/raghavendra-k-m"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedIn&labelColor=blue"></a>
   <a href="https://twitter.com/Raghavendra_K_M"><img src="https://img.shields.io/badge/-Twitter-white?style=flat&logo=twitter&labelColor=white"></a>
 </p>
 
